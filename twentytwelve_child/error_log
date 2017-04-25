@@ -1,0 +1,12 @@
+[23-Dec-2015 10:30:04] PHP Fatal error:  Call to undefined function  get_header() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/index.php on line 17
+[01-Mar-2016 06:02:54] PHP Fatal error:  Call to undefined function  language_attributes() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/header.php on line 13
+[01-Mar-2016 06:02:54] PHP Fatal error:  Call to undefined function  add_action() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/functions.php on line 21
+[01-Mar-2016 06:02:55] PHP Fatal error:  Call to undefined function  wp_footer() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/footer.php on line 35
+[01-Mar-2016 06:10:27] PHP Fatal error:  Call to undefined function  language_attributes() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/header.php on line 13
+[01-Mar-2016 06:10:28] PHP Fatal error:  Call to undefined function  add_action() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/functions.php on line 21
+[01-Mar-2016 06:10:28] PHP Fatal error:  Call to undefined function  wp_footer() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/footer.php on line 35
+[12-Mar-2016 20:30:56] PHP Fatal error:  Call to undefined function  add_action() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/functions.php on line 21
+[12-Mar-2016 20:30:56] PHP Fatal error:  Call to undefined function  wp_footer() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/footer.php on line 35
+[13-Aug-2016 13:22:55] PHP Fatal error:  Call to undefined function  get_header() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/index.php on line 17
+[10-Nov-2016 11:01:04] PHP Fatal error:  Call to undefined function  get_header() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/index.php on line 17
+[25-Mar-2017 11:39:42] PHP Fatal error:  Call to undefined function  get_header() in /home5/alankerb/public_html/postharvestcg/wp-content/themes/twentytwelve_child/index.php on line 17
